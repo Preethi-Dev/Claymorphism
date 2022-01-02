@@ -29,8 +29,11 @@ span {
   left: 50%;
   transform: translate(-50%, -50%);
   background: var(--secondary-color);
+
+  /* Magical shadows did their job */
   box-shadow: 24px 24px 48px rgba(174, 210, 236, 0.4),
     inset 12px 12px 24px #e7f2f9, inset -24px -24px 48px #b8d8ee;
+
   border-radius: 9.375rem;
   text-align: center;
 }
@@ -47,8 +50,11 @@ span {
   padding: 1.5rem 5rem;
   color: var(--secondary-color);
   background: var(--cta-bg-color);
+
+   /* Magical shadows did their job */
   box-shadow: 0px 4px 24px #b5d6ee, inset 6px 6px 12px #63a5d9,
     inset -12px -12px 24px #3e90d0;
+    
   border-radius: 2.5rem;
 }
 
