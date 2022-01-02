@@ -1,2 +1,2 @@
 # Claymorphism🎁 
-![image](asset\claymorphism.png)
+![image](/asset/claymorphism.png)
